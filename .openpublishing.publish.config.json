@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_RepoSync_Private_Prod",
+      "docset_name": "E2E_RepoSyncOnK8s_Private_Prod",
       "build_source_folder": "E2E_RepoSync_Private_Prod",
-      "build_output_subfolder": "E2E_RepoSync_Private_Prod",
+      "build_output_subfolder": "E2E_RepoSyncOnK8s_Private_Prod",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
